@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guyface10
 - 👀 I’m interested in <strong>game dev</strong> and <strong>machine learning</strong>
 - 🌱 I’m currently learning <strong>programming</strong>
-- 💞️ I’m looking to collaborate on <strong>nothing yet</strong>
+- 💞️ I’m not looking to collaborate on <strong>anything yet</strong>
 - 📫 How to reach me ...
 
 <!---
